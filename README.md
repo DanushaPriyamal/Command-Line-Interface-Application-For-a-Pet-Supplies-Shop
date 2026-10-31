@@ -1,5 +1,36 @@
-- Created a command-line interface application for a pet supplies shop using Java as the programming language.
-- Used Visual Studio Code as the development IDE.
-- There are two types of user levels in the application called Cashier and Manager.
-- The application facilitates the Manager to: Create user accounts for Cashiers, View all pet supplies details, Add new pet supplies and categories, and Search pet supplies by category.
-- The application facilitates the Cashier to: View all pet supplies details, Add new pet supplies and categories, and Search pet supplies by category.
+# 👨‍💻 Command Line Interface Application for a Pet Supplies Shop
+**Command line interface used application for a pet supplies shop called as "The Paws Shop"**
+
+---
+
+## ✨ Features
+- **Manager Features**
+    - Create user accounts for cashiers
+    - View all pet supply details
+    - Add new pet supplies and categories
+    - Search pet supplies using categories
+- **Cashier Features**
+    - View all pet supply details
+    - Add new pet supplies and categories
+    - Search pet supplies using categories
+
+---
+
+## 💻 Tech Stack
+- Java
+
+---
+
+## 🛠️ Development Tools
+- Visual Studio Code
+
+---
+
+## 📊 System Analysis and Design Diagrams
+
+
+
+
+
+
+
